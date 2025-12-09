@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "10月無口な君を忘れる",
+  "base_artist": "あたらよ",
+  "createdAt": "2025-12-09T14:17:07.454254Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "10月無口な君を忘れる - Piano ver.",
+      "artist": "あたらよ",
+      "has_synced": true,
+      "path": "select/01_10月無口な君を忘れる_-_Piano_ver._あたらよ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "10月無口な君を忘れる",
+      "artist": "あたらよ",
+      "has_synced": true,
+      "path": "select/02_10月無口な君を忘れる_あたらよ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "10月無口な君を忘れる (Piano ver.)",
+      "artist": "あたらよ",
+      "has_synced": true,
+      "path": "select/03_10月無口な君を忘れる_(Piano_ver.)_あたらよ.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "10月無口な君を忘れる",
+      "artist": "あたらよ",
+      "has_synced": true,
+      "path": "select/04_10月無口な君を忘れる_あたらよ.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "10月無口な君を忘れる",
+      "artist": "あたらよ",
+      "has_synced": true,
+      "path": "select/05_10月無口な君を忘れる_あたらよ.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "あたらよ-10月無口な君を忘れる Piano ver. (Music Video)",
+      "artist": "ATARAYO",
+      "has_synced": true,
+      "path": "select/06_あたらよ-10月無口な君を忘れる_Piano_ver._(Music_Video)_ATARAYO.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "10月無口な君を忘れる - From THE FIRST TAKE",
+      "artist": "あたらよ",
+      "has_synced": true,
+      "path": "select/07_10月無口な君を忘れる_-_From_THE_FIRST_TAKE_あたらよ.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "10月無口な君を忘れる",
+      "artist": "あたらよ",
+      "has_synced": true,
+      "path": "select/08_10月無口な君を忘れる_あたらよ.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "10月無口な君を忘れる - From THE FIRST TAKE",
+      "artist": "ATARAYO",
+      "has_synced": true,
+      "path": "select/09_10月無口な君を忘れる_-_From_THE_FIRST_TAKE_ATARAYO.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "10月無口な君を忘れる",
+      "artist": "Atarayo",
+      "has_synced": true,
+      "path": "select/10_10月無口な君を忘れる_Atarayo.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "10月無口な君を忘れる",
+      "artist": "あたらよ",
+      "has_synced": false,
+      "path": "select/pl_01_10月無口な君を忘れる_あたらよ.txt"
+    }
+  ]
+}
